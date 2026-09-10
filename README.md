@@ -1,3 +1,4 @@
+<img width="1474" height="807" alt="Screenshot 2026-09-10 at 1 46 20 PM" src="https://github.com/user-attachments/assets/d9ceee46-becb-405c-bed6-43d10794129d" />
 🌍 Climate Policy Intelligence
 
 Climate Policy Intelligence is a multi-provider Retrieval-Augmented Generation (RAG) application for analyzing climate policy, ESG, sustainability, and corporate climate reports.
